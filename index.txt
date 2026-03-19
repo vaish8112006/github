@@ -1,3 +1,2 @@
 hello git
-this is feature work
-this is feature1 work
+this is bugfix 
